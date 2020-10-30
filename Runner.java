@@ -6,6 +6,6 @@ public class Runner
   {
     World.setVisible(true); 
     World.setDelay(50);
-    //World.readWorld("introWorld.kwld");
+    //World.readWorld(".kwld");
   }
 }
